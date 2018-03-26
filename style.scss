@@ -303,7 +303,8 @@ footer {
 .divTableCell, .divTableHead {
 	border: 0px solid #999999;
 	display: table-cell;
-	padding: 3px 10px;
+  padding: 3px 10px;
+  vertical-align: top;
 }
 .divTableHeading {
 	background-color: #EEE;
